@@ -1,0 +1,942 @@
+{
+    "tracks": {
+      "href": "https://api.spotify.com/v1/search?query=genre%3Arap&type=track&market=SE&offset=0&limit=10",
+      "items": [
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+                },
+                "href": "https://api.spotify.com/v1/artists/6fWVd57NKTalqvmjRd2t8Z",
+                "id": "6fWVd57NKTalqvmjRd2t8Z",
+                "name": "24kGoldn",
+                "type": "artist",
+                "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+                "id": "6ASri4ePR7RlsvIQgWPJpS",
+                "name": "iann dior",
+                "type": "artist",
+                "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM"
+            },
+            "href": "https://api.spotify.com/v1/albums/4YMnOf4a7obOcN1Gy2QEuM",
+            "id": "4YMnOf4a7obOcN1Gy2QEuM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ff8c985ecb3b7c5f847be357",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ff8c985ecb3b7c5f847be357",
+                "width": 64
+              }
+            ],
+            "name": "Mood (feat. iann dior)",
+            "release_date": "2020-07-24",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:4YMnOf4a7obOcN1Gy2QEuM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+              },
+              "href": "https://api.spotify.com/v1/artists/6fWVd57NKTalqvmjRd2t8Z",
+              "id": "6fWVd57NKTalqvmjRd2t8Z",
+              "name": "24kGoldn",
+              "type": "artist",
+              "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+              "id": "6ASri4ePR7RlsvIQgWPJpS",
+              "name": "iann dior",
+              "type": "artist",
+              "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 140525,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USQX92003025"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq",
+          "id": "3tjFYV6RSFtuktYl3ZtYcq",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Mood (feat. iann dior)",
+          "popularity": 100,
+          "preview_url": "https://p.scdn.co/mp3-preview/45cb08fdb67744ab7f1f172bb750e9c10415c37a?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3tjFYV6RSFtuktYl3ZtYcq"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+                "id": "4kYSro6naA4h99UJvo89HB",
+                "name": "Cardi B",
+                "type": "artist",
+                "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+                },
+                "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+                "id": "181bsRPaVXVlUKXrxwZfHK",
+                "name": "Megan Thee Stallion",
+                "type": "artist",
+                "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+            },
+            "href": "https://api.spotify.com/v1/albums/2ogiazbrNEx0kQHGl5ZBTQ",
+            "id": "2ogiazbrNEx0kQHGl5ZBTQ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c450c89d3eb750d3535b0a0c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c450c89d3eb750d3535b0a0c",
+                "width": 64
+              }
+            ],
+            "name": "WAP (feat. Megan Thee Stallion)",
+            "release_date": "2020-08-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:2ogiazbrNEx0kQHGl5ZBTQ"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+              },
+              "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+              "id": "4kYSro6naA4h99UJvo89HB",
+              "name": "Cardi B",
+              "type": "artist",
+              "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+              },
+              "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+              "id": "181bsRPaVXVlUKXrxwZfHK",
+              "name": "Megan Thee Stallion",
+              "type": "artist",
+              "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 187541,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USAT22005111"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih",
+          "id": "4Oun2ylbjFKMPTiaSbbCih",
+          "is_local": false,
+          "is_playable": true,
+          "name": "WAP (feat. Megan Thee Stallion)",
+          "popularity": 98,
+          "preview_url": "https://p.scdn.co/mp3-preview/1ca9e7769467092ff12a0aee336488ce1b53501c?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:4Oun2ylbjFKMPTiaSbbCih"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0kKygNaCQjqVLrImIftRDJ",
+                "id": "0kKygNaCQjqVLrImIftRDJ",
+                "name": "Einár",
+                "type": "artist",
+                "uri": "spotify:artist:0kKygNaCQjqVLrImIftRDJ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T"
+            },
+            "href": "https://api.spotify.com/v1/albums/6WZR2h3rFvJH8DKq3oHt6T",
+            "id": "6WZR2h3rFvJH8DKq3oHt6T",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735b523c7efbb6640d3243222d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025b523c7efbb6640d3243222d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515b523c7efbb6640d3243222d",
+                "width": 64
+              }
+            ],
+            "name": "Unge Med Extra Energi",
+            "release_date": "2020-09-28",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6WZR2h3rFvJH8DKq3oHt6T"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0kKygNaCQjqVLrImIftRDJ",
+              "id": "0kKygNaCQjqVLrImIftRDJ",
+              "name": "Einár",
+              "type": "artist",
+              "uri": "spotify:artist:0kKygNaCQjqVLrImIftRDJ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 190515,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SE6QE2066660"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/07r0YVWQVk4tjuCZWTNQqA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/07r0YVWQVk4tjuCZWTNQqA",
+          "id": "07r0YVWQVk4tjuCZWTNQqA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Unge Med Extra Energi",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/a6ac67d23933b518f53bc84dcb0a3c2d57791285?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:07r0YVWQVk4tjuCZWTNQqA"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+                },
+                "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+                "id": "4r63FhuTkUYltbVAg5TQnk",
+                "name": "DaBaby",
+                "type": "artist",
+                "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+            },
+            "href": "https://api.spotify.com/v1/albums/623PL2MBg50Br5dLXC9E9e",
+            "id": "623PL2MBg50Br5dLXC9E9e",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485120e08c8cc23f404d723b5647",
+                "width": 64
+              }
+            ],
+            "name": "BLAME IT ON BABY",
+            "release_date": "2020-04-17",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:623PL2MBg50Br5dLXC9E9e"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+              },
+              "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+              "id": "4r63FhuTkUYltbVAg5TQnk",
+              "name": "DaBaby",
+              "type": "artist",
+              "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+              },
+              "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+              "id": "757aE44tKEUQEqRuT6GnEB",
+              "name": "Roddy Ricch",
+              "type": "artist",
+              "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 181733,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUM72007941"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7ytR5pFWmSjzHJIeQkgog4",
+          "id": "7ytR5pFWmSjzHJIeQkgog4",
+          "is_local": false,
+          "is_playable": true,
+          "name": "ROCKSTAR (feat. Roddy Ricch)",
+          "popularity": 95,
+          "preview_url": null,
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+                "id": "0H39MdGGX6dbnnQPt6NQkZ",
+                "name": "SAINt JHN",
+                "type": "artist",
+                "uri": "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+                },
+                "href": "https://api.spotify.com/v1/artists/5rGrDvrLOV2VV8SCFVGWlj",
+                "id": "5rGrDvrLOV2VV8SCFVGWlj",
+                "name": "Imanbek",
+                "type": "artist",
+                "uri": "spotify:artist:5rGrDvrLOV2VV8SCFVGWlj"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
+            },
+            "href": "https://api.spotify.com/v1/albums/3GqSdhWjmMypMwPLtzoFYs",
+            "id": "3GqSdhWjmMypMwPLtzoFYs",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b340b496cb7c38d727ff40be",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b340b496cb7c38d727ff40be",
+                "width": 64
+              }
+            ],
+            "name": "Roses (Imanbek Remix)",
+            "release_date": "2019-10-09",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3GqSdhWjmMypMwPLtzoFYs"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+              "id": "0H39MdGGX6dbnnQPt6NQkZ",
+              "name": "SAINt JHN",
+              "type": "artist",
+              "uri": "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+              },
+              "href": "https://api.spotify.com/v1/artists/5rGrDvrLOV2VV8SCFVGWlj",
+              "id": "5rGrDvrLOV2VV8SCFVGWlj",
+              "name": "Imanbek",
+              "type": "artist",
+              "uri": "spotify:artist:5rGrDvrLOV2VV8SCFVGWlj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 176840,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "RUB421901499"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/24Yi9hE78yPEbZ4kxyoXAI",
+          "id": "24Yi9hE78yPEbZ4kxyoXAI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Roses - Imanbek Remix",
+          "popularity": 91,
+          "preview_url": "https://p.scdn.co/mp3-preview/97bb46bf1d8c0f4085378c93a41bd885f2fe323f?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:24Yi9hE78yPEbZ4kxyoXAI"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+                },
+                "href": "https://api.spotify.com/v1/artists/6MPCFvOQv5cIGfw3jODMF0",
+                "id": "6MPCFvOQv5cIGfw3jODMF0",
+                "name": "Internet Money",
+                "type": "artist",
+                "uri": "spotify:artist:6MPCFvOQv5cIGfw3jODMF0"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+                "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                "name": "Gunna",
+                "type": "artist",
+                "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+                },
+                "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+                "id": "4Gso3d4CscCijv0lmajZWs",
+                "name": "Don Toliver",
+                "type": "artist",
+                "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
+            },
+            "href": "https://api.spotify.com/v1/albums/1pFaEu56zqpzSviJc3htZN",
+            "id": "1pFaEu56zqpzSviJc3htZN",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d46a8fffbe6c8630784f04da",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d46a8fffbe6c8630784f04da",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d46a8fffbe6c8630784f04da",
+                "width": 64
+              }
+            ],
+            "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+            "release_date": "2020-08-14",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1pFaEu56zqpzSviJc3htZN"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+              },
+              "href": "https://api.spotify.com/v1/artists/6MPCFvOQv5cIGfw3jODMF0",
+              "id": "6MPCFvOQv5cIGfw3jODMF0",
+              "name": "Internet Money",
+              "type": "artist",
+              "uri": "spotify:artist:6MPCFvOQv5cIGfw3jODMF0"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+              "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+              "name": "Gunna",
+              "type": "artist",
+              "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+              "id": "4Gso3d4CscCijv0lmajZWs",
+              "name": "Don Toliver",
+              "type": "artist",
+              "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+              },
+              "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+              "id": "7rkW85dBwwrJtlHRDkJDAC",
+              "name": "NAV",
+              "type": "artist",
+              "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 195428,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZJ842000368"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
+          },
+          "href": "https://api.spotify.com/v1/tracks/02kDW379Yfd5PzW5A6vuGt",
+          "id": "02kDW379Yfd5PzW5A6vuGt",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Lemonade",
+          "popularity": 94,
+          "preview_url": null,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:02kDW379Yfd5PzW5A6vuGt"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ahIOvoOixJ6reWSvAsshX",
+                "id": "0ahIOvoOixJ6reWSvAsshX",
+                "name": "Mwuana",
+                "type": "artist",
+                "uri": "spotify:artist:0ahIOvoOixJ6reWSvAsshX"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6bh6tObT7mTxwSzvBcgaY6"
+            },
+            "href": "https://api.spotify.com/v1/albums/6bh6tObT7mTxwSzvBcgaY6",
+            "id": "6bh6tObT7mTxwSzvBcgaY6",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e097254c88ec338107b7517d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e097254c88ec338107b7517d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e097254c88ec338107b7517d",
+                "width": 64
+              }
+            ],
+            "name": "LOVERMAN",
+            "release_date": "2020-07-03",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:6bh6tObT7mTxwSzvBcgaY6"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ahIOvoOixJ6reWSvAsshX",
+              "id": "0ahIOvoOixJ6reWSvAsshX",
+              "name": "Mwuana",
+              "type": "artist",
+              "uri": "spotify:artist:0ahIOvoOixJ6reWSvAsshX"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 242909,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "SEUM72000756"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/66y0PlzFZZhoI32wgbsuPo"
+          },
+          "href": "https://api.spotify.com/v1/tracks/66y0PlzFZZhoI32wgbsuPo",
+          "id": "66y0PlzFZZhoI32wgbsuPo",
+          "is_local": false,
+          "is_playable": true,
+          "name": "LOVERMAN",
+          "popularity": 68,
+          "preview_url": null,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:66y0PlzFZZhoI32wgbsuPo"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+                },
+                "href": "https://api.spotify.com/v1/artists/6MPCFvOQv5cIGfw3jODMF0",
+                "id": "6MPCFvOQv5cIGfw3jODMF0",
+                "name": "Internet Money",
+                "type": "artist",
+                "uri": "spotify:artist:6MPCFvOQv5cIGfw3jODMF0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/2vGU0DOcfsDee0euvhl1iZ",
+            "id": "2vGU0DOcfsDee0euvhl1iZ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739ca0c952f130e28025209cf0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029ca0c952f130e28025209cf0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519ca0c952f130e28025209cf0",
+                "width": 64
+              }
+            ],
+            "name": "B4 The Storm",
+            "release_date": "2020-08-28",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:2vGU0DOcfsDee0euvhl1iZ"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+              },
+              "href": "https://api.spotify.com/v1/artists/6MPCFvOQv5cIGfw3jODMF0",
+              "id": "6MPCFvOQv5cIGfw3jODMF0",
+              "name": "Internet Money",
+              "type": "artist",
+              "uri": "spotify:artist:6MPCFvOQv5cIGfw3jODMF0"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+              "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+              "name": "Gunna",
+              "type": "artist",
+              "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+              "id": "4Gso3d4CscCijv0lmajZWs",
+              "name": "Don Toliver",
+              "type": "artist",
+              "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+              },
+              "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+              "id": "7rkW85dBwwrJtlHRDkJDAC",
+              "name": "NAV",
+              "type": "artist",
+              "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 195428,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZJ842000368"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX",
+          "id": "7hxHWCCAIIxFLCzvDgnQHX",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+          "popularity": 88,
+          "preview_url": null,
+          "track_number": 17,
+          "type": "track",
+          "uri": "spotify:track:7hxHWCCAIIxFLCzvDgnQHX"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+                },
+                "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+                "id": "3hcs9uc56yIGFCSy9leWe7",
+                "name": "Lil Durk",
+                "type": "artist",
+                "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+            },
+            "href": "https://api.spotify.com/v1/albums/0qGdc7fNq9RNIPEzZufa43",
+            "id": "0qGdc7fNq9RNIPEzZufa43",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0252c75ed37313b889447011ef",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
+                "width": 64
+              }
+            ],
+            "name": "Laugh Now Cry Later (feat. Lil Durk)",
+            "release_date": "2020-08-14",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0qGdc7fNq9RNIPEzZufa43"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+              },
+              "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+              "id": "3TVXtAsR1Inumwj472S9r4",
+              "name": "Drake",
+              "type": "artist",
+              "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+              },
+              "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+              "id": "3hcs9uc56yIGFCSy9leWe7",
+              "name": "Lil Durk",
+              "type": "artist",
+              "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 261492,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUG12001748"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2SAqBLGA283SUiwJ3xOUVI",
+          "id": "2SAqBLGA283SUiwJ3xOUVI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Laugh Now Cry Later (feat. Lil Durk)",
+          "popularity": 95,
+          "preview_url": null,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2SAqBLGA283SUiwJ3xOUVI"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+                },
+                "href": "https://api.spotify.com/v1/artists/7yptUupX4aIIkXwXhggAgk",
+                "id": "7yptUupX4aIIkXwXhggAgk",
+                "name": "Macky",
+                "type": "artist",
+                "uri": "spotify:artist:7yptUupX4aIIkXwXhggAgk"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3Qi2TpIjKbLV3v4g6iMy4q"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Qi2TpIjKbLV3v4g6iMy4q",
+            "id": "3Qi2TpIjKbLV3v4g6iMy4q",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27393b8abaad107ab4b0d875392",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0293b8abaad107ab4b0d875392",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485193b8abaad107ab4b0d875392",
+                "width": 64
+              }
+            ],
+            "name": "PA PA",
+            "release_date": "2020-07-03",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3Qi2TpIjKbLV3v4g6iMy4q"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+              },
+              "href": "https://api.spotify.com/v1/artists/7yptUupX4aIIkXwXhggAgk",
+              "id": "7yptUupX4aIIkXwXhggAgk",
+              "name": "Macky",
+              "type": "artist",
+              "uri": "spotify:artist:7yptUupX4aIIkXwXhggAgk"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 182429,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "SEBGA2000648"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3dik6P9rxGTsdDB5x42jqs"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3dik6P9rxGTsdDB5x42jqs",
+          "id": "3dik6P9rxGTsdDB5x42jqs",
+          "is_local": false,
+          "is_playable": true,
+          "name": "PA PA",
+          "popularity": 66,
+          "preview_url": "https://p.scdn.co/mp3-preview/ed1d2a36187dac52380c9a28829c7e8e848d4ad9?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3dik6P9rxGTsdDB5x42jqs"
+        }
+      ],
+      "limit": 10,
+      "next": "https://api.spotify.com/v1/search?query=genre%3Arap&type=track&market=SE&offset=10&limit=10",
+      "offset": 0,
+      "previous": null,
+      "total": 100000
+    }
+  }
